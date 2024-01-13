@@ -6,3 +6,5 @@ pip install bert-score
 pip install wandb
 pip install torchmetrics==0.10.3
 pip install accelerate
+pip install datasets
+pip install evaluate
