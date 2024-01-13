@@ -7,8 +7,8 @@ This is the official repository for "[Preserving Privacy Through Dememorization:
 - [Installation](#installation)
 - [Training](#training)
 - [Evaluation](#evaluation)
-- [Questions](#questions)
 - [DeMemorized Model Weights](#dememorized-model-weights)
+- [Questions](#questions)
 - [Citation](#citation)
 
 ## Installation
@@ -25,12 +25,11 @@ Run the following [notebook](https://github.com/Alymostafa/DeMemorization/blob/m
 ## Evaluation
 After you have a DeMemorized model, you can evaluate it using this [script](https://github.com/Alymostafa/DeMemorization/blob/main/code/eval/dememorize_eval.py)
 
-## Questions
-If you have a question, don't hesitate to open an issue or reach out to Aly Kassem @ kassem6@uwindsor.ca
-
-
 ## DeMemorized Model Weights
 Will be added soon
+
+## Questions
+If you have a question, don't hesitate to open an issue or reach out to Aly Kassem @ kassem6@uwindsor.ca
 
 ## Citation
 If you find this useful in your research, please consider citing:
