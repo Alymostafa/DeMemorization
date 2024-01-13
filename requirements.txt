@@ -1,0 +1,8 @@
+pip install trl
+pip install peft
+pip install sacrebleu
+pip install evaluate
+pip install bert-score
+pip install wandb
+pip install torchmetrics==0.10.3
+pip install accelerate
